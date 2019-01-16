@@ -1,5 +1,5 @@
 {
-    "extends": "line",
+    "extends": "Line",
     "title": {
         "text": "Graph Loaded from External JSON File"
     },
